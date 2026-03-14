@@ -12,7 +12,7 @@ at the University of Oxford in March 2026. See
 
 https://www.firedrakeproject.org/tutorial_mar_26.html
 
-for drtails.
+for details.
 
 # Usage
 
