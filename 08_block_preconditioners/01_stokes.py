@@ -44,6 +44,7 @@ sp = {
       "ksp_type": "fgmres",
       "ksp_rtol": 1.0e-10,
       "ksp_monitor": None,
+      "ksp_view_eigenvalues": None,
       "pc_type": "fieldsplit",
       "pc_fieldsplit_type": "schur",
       "pc_fieldsplit_schur_factorization_type": "full",
